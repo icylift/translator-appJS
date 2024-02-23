@@ -6,5 +6,6 @@ const icons = document.querySelector(".row i");
 const translateBtn = document.querySelector("button");
 
 selectTag.forEach((tag, id) => {
-  for()
+  for (let country_code in countries) {
+  }
 });
