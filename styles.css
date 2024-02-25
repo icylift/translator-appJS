@@ -14,7 +14,7 @@ body{
   justify-content: center;
   padding: 0 10px;
   min-height: 100vh;
-  background: #06283d;
+  background: #F2FBE0;
 }
 
 .container{
@@ -23,6 +23,8 @@ body{
   background: #fff;
   padding: 30px;
   border-radius: 7px;
+  border-style: solid;
+  border-color: #595758;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.01);
 }
 
@@ -148,7 +150,7 @@ body{
   margin-top: 20px;
   font-size: 17px;
   border-radius: 5px;
-  background: #06283d;
+  background: #595758;
 }
 
 
